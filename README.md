@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p > 
    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>Javascript </a>
  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Java</a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>Python </a>
@@ -28,6 +28,7 @@
   
   <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>tailwind</a> 
  <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>Bootstrap </a> 
+ 
   <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>MongoDb </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>MYSQL </a>
  
@@ -40,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=29jaspreet&show_icons=true&locale=en&layout=compact" alt="29jaspreet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=29jaspreet&show_icons=true&locale=en" alt="29jaspreet" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=29jaspreet&show_icons=true&locale=en" alt="29jaspreet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=29jaspreet&" alt="29jaspreet" /></p>
